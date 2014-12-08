@@ -1,5 +1,5 @@
 #!/bin/bash
 
-export PYTHONPATH=/home/goodmami/pydelphin/:"$PYTHONPATH"
+export PYTHONPATH=~/pydelphin/:"$PYTHONPATH"
 
 python3 profound.py "$@"
